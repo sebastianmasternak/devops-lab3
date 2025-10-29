@@ -1,1 +1,2 @@
 To jest moja wersja zdania poprawna.
+Wersja z brancha sebastian-masternak
